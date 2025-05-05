@@ -1,2 +1,4 @@
 # Hello-World
-Repositório criado para o treinamento sobre o github
+Repositório criado para o nosso treinamento sobre o github
+# Hisabela Campos
+Estamos estudando github a partir do material disponível por ele
