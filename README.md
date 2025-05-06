@@ -5,4 +5,4 @@ Estamos estudando github a partir do material disponível por ele
 # Philips
 Eu trabalho na Philips
 # Rocha Campos
-Esses são os meus sobrenomes
+Esses são os meus sobrenom
